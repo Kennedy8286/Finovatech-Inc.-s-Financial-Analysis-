@@ -3,4 +3,5 @@ Interactive Power BI dashboard analyzing 200K+ financial transactions across dep
 
 See the full dashboard here: [PowerBi App Link](https://app.powerbi.com/view?r=eyJrIjoiYzRiNTRjYjEtODBmMi00OWU4LTg0NzItMDI0NGNmZjQ1ZWVjIiwidCI6IjYzYzQ3MTVmLTExNzAtNDFmYy04OTAwLWMwMTgzMzMwNGQ3YiJ9)
 
-![Vehicle Sales Dashboard](Finovatech Overview Page.png)
+![Finovatech Inc. Financial Dashboard](Finovatech_Overview_Page.png)
+
